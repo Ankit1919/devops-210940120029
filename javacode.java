@@ -1,4 +1,4 @@
-Class Exam
+class Exam
 {
 	public static void main(Strings[] arga)
 	{
