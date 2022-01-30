@@ -1,4 +1,4 @@
-class javacode
+class Exam
 {
 	public static void main(String[] args)
 	{
